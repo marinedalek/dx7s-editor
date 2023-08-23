@@ -11,5 +11,8 @@ endif()
 
 project ("dx7s-editor")
 
+
 # Include sub-projects.
-add_subdirectory ("dx7s-editor")
+add_subdirectory ("src")
+
+
